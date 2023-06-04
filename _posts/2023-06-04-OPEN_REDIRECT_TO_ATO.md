@@ -2,7 +2,7 @@
 title: Hacking into my college system
 date: 2023-06-04 00:49:50 -0300
 categories: [Hacking, Web Exploitation]
-tags: [hacking, open-redirect, account-takeover]     # TAG names should always be lowercase
+tags: [hacking, open redirect, account takeover]     # TAG names should always be lowercase
 ---
 
 
